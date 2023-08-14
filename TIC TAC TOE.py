@@ -43,7 +43,6 @@ def choose_marker():
     return marker1
 
 
-from IPython.display import clear_output
 
 print("Here is the TIC - TAC - TOE board!")
 game_board()
