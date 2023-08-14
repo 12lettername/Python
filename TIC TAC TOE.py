@@ -58,7 +58,6 @@ else:
 turn = 0
 checker = []
 while game_on:
-    clear_output()
     game_board()
     choice = 0
     while choice not in range(1, 10) or choice in checker:
