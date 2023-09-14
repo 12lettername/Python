@@ -1,4 +1,4 @@
 #MyPythonProjects
 
-I have coded several projects in python and pushed it 
+I have coded several small projects in python and pushed it 
 to my repository in GitHub
